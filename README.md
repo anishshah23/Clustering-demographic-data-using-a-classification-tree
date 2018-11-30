@@ -1,0 +1,2 @@
+# Clustering-demographic-data-using-a-classification-tree
+Cluster the demographic data of Table 14.1 using a classification tree. Specifically, generate a reference sample the same size as the training set, by randomly permuting the values within each feature. Build a classification tree to the training sample (class 1) and the reference sample (class 0) and describe the terminal nodes having highest estimated class 1 probability. 
